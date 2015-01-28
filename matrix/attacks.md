@@ -14,3 +14,5 @@ Alternatively a Decking duel might occur, Decker does something to the team, Riv
 The apartment/warehouse/whatever complex might have a Rating 3 host that both deckers can fiddle with.
 ## Talismonger's HQ on a Yacht
 Spirits omae, spirits. 8-10 dicepool for the defence for their personal gear. The boat itself might have an alright device rating and you'd base everything off of that.
+
+Source: http://www.reddit.com/r/Shadowrun/comments/2st74x/5th_your_best_decking_scenario/cnsnaq2
